@@ -5,36 +5,30 @@
 
 ---
 
-🚀 I’m a full-stack developer with **6.7+ years** of experience building scalable web applications, APIs, admin panels, and multi-tenant SaaS platforms using modern JavaScript (Vue 3, Nuxt) and PHP (Laravel).  
+🚀 I’m a full-stack developer with **7+ years** of experience building scalable web applications, APIs, admin panels, and multi-tenant SaaS platforms using modern JavaScript (Vue 3, Nuxt) and PHP (Laravel). I specialize in delivering robust, maintainable, and high-performance solutions.
 
 🛠 **Tech Stack**
-- Frontend: Vue 3, Nuxt, Tailwind CSS, TypeScript
-- Backend: Laravel, REST APIs, MySQL, PostgreSQL
-- Tools: Git, Vite, Webpack, Docker, Jira
-- UI/UX: Figma, Wireframes, Responsive Design
+- **Frontend:** Vue 3, Nuxt, Tailwind CSS, TypeScript, Responsive Design
+- **Backend:** Laravel, REST APIs, MySQL, PostgreSQL
+- **Tools & DevOps:** Git, Vite, Webpack, Docker, Jira
+- **UI/UX:** Figma, Wireframes, Component-based Design
 
 ---
 
 🧠 **Recent Projects**
-- **C-Finance CRM** – Advanced customer & loan tracking portal
-- **Service Connections** – Mechanic-customer real-time mobile app
-- **MyLeaseAudit** – Multi-tenant lease auditing SaaS tool
-- **AppForms** – Dynamic form builder and reporting engine
-
----
-
-📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArjunvDevaraj&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunvDevaraj&layout=compact&theme=tokyonight)
+- **C-Finance CRM** – Advanced customer & loan tracking portal with complex workflows
+- **Service Connections** – Real-time mechanic-customer mobile app
+- **MyLeaseAudit** – Multi-tenant SaaS platform for lease auditing and reporting
+- **AppForms** – Dynamic form builder with integrated reporting engine
 
 ---
 
 📫 **Connect With Me**
-- 🔗 [GitHub](https://github.com/ArjunvDevaraj)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arjunvdevaraj)
-- 📧 Email: [arjunamb96@gmail.com](mailto:arjunamb96@gmail.com)
+- 🔗 [GitHub](https://github.com/ArjunvDevaraj)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjunvdevaraj)  
+- 📧 Email: [arjunamb96@gmail.com](mailto:arjunamb96@gmail.com)  
 - 📱 Phone: +91 7994692302
 
 ---
 
-⭐️ Feel free to check out my projects and reach out for collaboration or freelance work!
+⭐️ Open to collaboration, freelance opportunities, and challenging projects. Let’s build something impactful together!
